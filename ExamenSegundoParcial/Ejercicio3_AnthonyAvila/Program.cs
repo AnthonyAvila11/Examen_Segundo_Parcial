@@ -17,7 +17,7 @@ namespace Ejercicio3_AnthonyAvila
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MenuView());
+            Application.Run(new LoginForm());
         }
     }
 }
